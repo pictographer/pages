@@ -2,10 +2,9 @@
 layout: page
 title: Portfolio
 permalink: /portfolio/
+has_children: true
 ---
 
-Tagged Base64
+Here are several projects that demonstrate my writing, coding, and artistic skills.
 
-Tide Disco
 
-Gimp Tutorial

@@ -2,6 +2,7 @@
 layout: page
 title: Halftone Tutorial
 permalink: /halftone/
+parent: Portfolio
 ---
 
 # Halftone Tutorial
