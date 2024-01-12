@@ -8,88 +8,90 @@ permalink: /resume/
 
 # Experience
 
-## The Pictographer's Shop · Freelance
-Owner/Freelance 1996 - Present · 28 yrs 1 mo
+## The Pictographer's Shop
 
-For many years, I've had a consulting practice. I've worked
-in various specialties including software development, user
-interface development, web design, and graphic design.
+### Owner/Freelance
+1996 - Present · 28 yrs 1 mo
 
-Developed prototype Internet of Things devices related to
-home automation, remote device monitoring and secure
-password storage. 
+For many years, I've had a consulting practice. I've worked in various
+specialties including software development, user interface
+development, web design, and graphic design.
+
+Developed prototype Internet of Things devices related to home
+automation, remote device monitoring and secure password storage.
 
 At the moment, pictographer.com is down. I'm brushing up on my web
 skills and will eventually refresh it.
 
-## Kroger Technology & Digital
-Software Developer
-Kroger Technology & Digital · Contract · Oct 2022 - Aug 2023 · 11 mos · Remote
+## Kroger Technology & Digital via Ascendum
 
-Developed a prototype developer tool to generate unit tests from
-TypeScript application code. Written in Rust using Speedy Web Compiler
-for parsing. The output is working test code that a developer can
-easily adapt to application requirements because it uses a
-Handlebars-like template library.
+### Contract Software Developer
+Oct 2022 - Aug 2023 · 11 mos · Remote
+
+Developed Anvil, a prototype developer tool to generate unit tests
+from TypeScript application code. Written in Rust using Speedy Web
+Compiler for parsing. The output is working test code that a developer
+can easily adapt to application requirements because the tool uses a
+Handlebars-like template system as part of code generation.
 
 ## Espresso Systems
-Full-time · 1 yr 10 mos Remote
-Staff Software Engineer
+Full-time · 1 yr 10 mos · Remote
+
+### Staff Software Engineer
 Jan 2022 - Aug 2022 · 8 mos
 
-Developed a framework for discoverable web APIs in
-Rust based on the Tide web services crate.
+Developed a framework for discoverable web APIs in Rust based on the
+Tide web services library.
 
-*Skills:* Rust (Programming Language)
+*Skills:* Rust
 
-Director Of Engineering
+### Director Of Engineering
 Nov 2020 - Jan 2022 · 1 yr 3 mos
 
-Hired and led a team of systems engineers to
-successful demonstration of a cryptographic ledger
-based on zero knowledge proofs.
+Hired and led a team of systems engineers to successful demonstration
+of a cryptographic ledger based on zero knowledge proofs.
 
 *Skills:* Hiring · Cross-functional Team Leadership · Requirements Engineering
 
 ## Findora Foundation
-1 yr 4 mos1 yr 4 mos
+1 yr 4 mos
 
 ### Director of Engineering
-Full-time Mar 2020 - Nov 2020 · 9 mos
+Full-time Mar 2020 - Nov 2020 · 9 mos · Remote
 
-Hired and led a small team of systems engineers to
-successful demonstration of a cryptographic ledger
-based on zero knowledge proofs.
+Hired and led a small team of systems engineers to successful
+demonstration of a cryptographic ledger based on zero knowledge
+proofs.
 
 ### Senior System Engineer
 Aug 2019 - Mar 2020 · 8 mos · Menlo Park
 
-Developed financial infrastructure using modern
-cryptography.
+Developed financial infrastructure using modern cryptography.
 
-*Skills:* Rust (Programming Language)
+*Skills:* Rust
 
 ## Cycuity (Formerly Tortuga Logic)
 
-Senior Software Engineer
+### Senior Software Engineer
 Tortuga Logic, Inc. May 2018 - Jul 2019 · 1 yr 3 mos San Jose
 
 Developed high performance graph algorithms and data
 structures for hardware security analysis.
 
-*Skills:* C++
+*Skills:* C++, Java
 
-##  Application Engineer
+## Xilinx via Elevated Resources
 
-Xilinx via Elevated Resources Nov 2017 - May 2018 · 7 mos San Jose, CA
+### Application Engineer
+Nov 2017 - May 2018 · 7 mos San Jose, CA
 
 Documented H.264/H.265 video codec hardware acceleration
 
 *Skills:* Technical Writing · Field-Programmable Gate Arrays (FPGA)
 
-Engineer
-
 ## Two Pore Guys, Inc.
+
+## Engineer
 Sep 2016 - Jun 2017 · 10 mos Santa Cruz, California
 
 Software development spanning microcontroller firmware, user
@@ -129,7 +131,8 @@ for deployment to high altitudes or space.
 *Skills:* C++ · Field-Programmable Gate Arrays (FPGA)
 
 ## BravoBrava!, LLC
-Software Engineer
+
+### Software Engineer
 2000 - 2001 · 1 yr
 
 Software development and graphic design for multi-modal user
@@ -139,8 +142,9 @@ recognition, and RFID.
 *Skills:* Visual Basic · Speech Recognition · C++ · Graphic Design*
 
 ## SGI
-Member of Technical Staff
-Silicon Graphics 1989 - 1992 · 3 yrs
+
+### Member of Technical Staff
+1989 - 1992 · 3 yrs
 
 User interface development for SGI's end user
 environment.
@@ -148,15 +152,18 @@ environment.
 *Skills:* C++*Skills:* C++
 
 ## PARC
-Research Programmer
-Xerox PARC 1987 - 1989 · 2 yrs
+
+### Research Programmer
+1987 - 1989 · 2 yrs
 
 Assisted with research into graphics editing applications
 and text editing applications.
+
 *Skills:* Common Lisp
 
 ## Learning Research and Development CenterLearning Research and Development Center
-Programmer
+
+### Research Programmer
 1985 - 1988 · 3 yrs
 
 Developed Intelligent Tutoring Systems and a patented method
