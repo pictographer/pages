@@ -9,6 +9,7 @@ permalink: /resume/
 # Experience
 
 ## The Pictographer's Shop
+My consulting website
 
 ### Owner/Freelance
 1996 - Present · 28 yrs 1 mo
@@ -24,6 +25,7 @@ At the moment, pictographer.com is down. I'm brushing up on my web
 skills and will eventually refresh it.
 
 ## Kroger Technology & Digital via Ascendum
+A food company with thousands of software developers
 
 ### Contract Software Developer
 Oct 2022 - Aug 2023 · 11 mos · Remote
@@ -35,6 +37,8 @@ can easily adapt to application requirements because the tool uses a
 Handlebars-like template system as part of code generation.
 
 ## Espresso Systems
+A company founded by Zero Knowledge Proof experts initially focused on financial technolgies that balance transparency and privacy
+
 Full-time · 1 yr 10 mos · Remote
 
 ### Staff Software Engineer
@@ -54,6 +58,8 @@ of a cryptographic ledger based on zero knowledge proofs.
 *Skills:* Hiring · Cross-functional Team Leadership · Requirements Engineering
 
 ## Findora Foundation
+A crypto company building an auditable financial ledger
+
 1 yr 4 mos
 
 ### Director of Engineering
@@ -70,10 +76,12 @@ Developed financial infrastructure using modern cryptography.
 
 *Skills:* Rust
 
-## Cycuity (Formerly Tortuga Logic)
+## Cycuity (formerly Tortuga Logic)
+A software company concerned with security-related information flows
+in hardware/software systems
 
 ### Senior Software Engineer
-Tortuga Logic, Inc. May 2018 - Jul 2019 · 1 yr 3 mos San Jose
+May 2018 - Jul 2019 · 1 yr 3 mos San Jose
 
 Developed high performance graph algorithms and data
 structures for hardware security analysis.
@@ -81,6 +89,7 @@ structures for hardware security analysis.
 *Skills:* C++, Java
 
 ## Xilinx via Elevated Resources
+A fabless semiconductor company offering video acceleration hardware among many other things
 
 ### Application Engineer
 Nov 2017 - May 2018 · 7 mos San Jose, CA
@@ -90,6 +99,7 @@ Documented H.264/H.265 video codec hardware acceleration
 *Skills:* Technical Writing · Field-Programmable Gate Arrays (FPGA)
 
 ## Two Pore Guys, Inc.
+A defunct device startup concerned with identifying biomolecules
 
 ## Engineer
 Sep 2016 - Jun 2017 · 10 mos Santa Cruz, California
@@ -105,6 +115,8 @@ Python and C++.
 *Skills:* Microcontroller Development · C++ · Python
 
 ## Xilinx
+A fabless semiconductor company famous for Field Programmable Gate Arrays
+
 11 yrs 6 mos
 
 ### Senior Staff Software Engineer
@@ -131,6 +143,7 @@ for deployment to high altitudes or space.
 *Skills:* C++ · Field-Programmable Gate Arrays (FPGA)
 
 ## BravoBrava!, LLC
+A defunct small startup incubator focused on multi-modal user interfaces
 
 ### Software Engineer
 2000 - 2001 · 1 yr
@@ -142,6 +155,8 @@ recognition, and RFID.
 *Skills:* Visual Basic · Speech Recognition · C++ · Graphic Design*
 
 ## SGI
+A defunct minicomputer and supercomputer company focused on high
+performance computer graphics
 
 ### Member of Technical Staff
 1989 - 1992 · 3 yrs
@@ -151,7 +166,8 @@ environment.
 
 *Skills:* C++*Skills:* C++
 
-## PARC
+## PARC (formerly Xerox PARC, now part of SRI)
+A legendary research laboratory
 
 ### Research Programmer
 1987 - 1989 · 2 yrs
@@ -161,7 +177,9 @@ and text editing applications.
 
 *Skills:* Common Lisp
 
-## Learning Research and Development CenterLearning Research and Development Center
+## Learning Research and Development Center
+An interdisciplinary research laboratory applying the latest computing
+technologies to learning and education
 
 ### Research Programmer
 1985 - 1988 · 3 yrs
@@ -169,5 +187,5 @@ and text editing applications.
 Developed Intelligent Tutoring Systems and a patented method
 for creating graphical user interfaces.
 
-*Skills:* Interlisp-D/Loops*Skills:* Interlisp-D/Loops
+*Skills:* Xerox D-Machines · Interlisp-D/Loops
 
