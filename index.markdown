@@ -14,7 +14,6 @@ writing.
 Here you'll find my
 
 - [Resume](/resume.markdown)
-- [Open source projects](https://github.com/pictographer)
 - [Portfolio](/portfolio.markdown)
 - [Patents](/patents.markdown)
 - [Tutorials](/tutorials.markdown)
@@ -25,7 +24,9 @@ company culture or work practices, with the exception of skill
 acquisition. I'm still driven to make things work, but I recognize
 that the collaborators are more important than the domain. I’m
 interested in finding people to work with whose values align with
-mine. Briefly,
+mine.
+
+Briefly,
 
 - We seek work that is beneficial, not merely lucrative
 - We choose correctness over haste

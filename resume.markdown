@@ -5,6 +5,9 @@ permalink: /resume/
 ---
 
 # John D. Corbett, Rust Software Developer
+corbett@pictographer.com
+
+This is very similar to my [LinkedIn profile](https://www.linkedin.com/in/johndcorbett/).
 
 # Experience
 
@@ -37,7 +40,8 @@ can easily adapt to application requirements because the tool uses a
 Handlebars-like template system as part of code generation.
 
 ## Espresso Systems
-A company founded by Zero Knowledge Proof experts initially focused on financial technolgies that balance transparency and privacy
+A company founded by Zero Knowledge Proof experts initially focused on
+financial technolgies that balance transparency and privacy
 
 Full-time · 1 yr 10 mos · Remote
 
@@ -47,7 +51,7 @@ Jan 2022 - Aug 2022 · 8 mos
 Developed a framework for discoverable web APIs in Rust based on the
 Tide web services library.
 
-*Skills:* Rust
+*Skills:* Rust, UX
 
 ### Director Of Engineering
 Nov 2020 - Jan 2022 · 1 yr 3 mos
@@ -69,6 +73,8 @@ Hired and led a small team of systems engineers to successful
 demonstration of a cryptographic ledger based on zero knowledge
 proofs.
 
+*Skills:* Hiring · Cross-functional Team Leadership · Requirements Engineering  · Crisis Management
+
 ### Senior System Engineer
 Aug 2019 - Mar 2020 · 8 mos · Menlo Park
 
@@ -89,7 +95,8 @@ structures for hardware security analysis.
 *Skills:* C++, Java
 
 ## Xilinx via Elevated Resources
-A fabless semiconductor company offering video acceleration hardware among many other things
+A fabless semiconductor company offering video acceleration hardware
+among many other things
 
 ### Application Engineer
 Nov 2017 - May 2018 · 7 mos San Jose, CA
@@ -152,6 +159,13 @@ Software development and graphic design for multi-modal user
 interfaces, including speech recognition, gesture
 recognition, and RFID.
 
+Built a skeuomorphic book interface for a reading tutor application that
+used speech recognition and speech synthesis to help beginning readers.
+
+Built an interface for a 'smart' refrigerator incorporating handwriting recognition, speech recognition, speech synthesis, and RFID.
+
+Developed prompts for a 'smart' television remote control.
+
 *Skills:* Visual Basic · Speech Recognition · C++ · Graphic Design*
 
 ## SGI
@@ -164,9 +178,9 @@ performance computer graphics
 User interface development for SGI's end user
 environment.
 
-*Skills:* C++*Skills:* C++
+*Skills:* C++
 
-## PARC (formerly Xerox PARC, now part of SRI)
+## Xerox PARC (now part of SRI)
 A legendary research laboratory
 
 ### Research Programmer
