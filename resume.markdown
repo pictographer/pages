@@ -203,3 +203,10 @@ for creating graphical user interfaces.
 
 *Skills:* Xerox D-Machines · Interlisp-D/Loops
 
+# Education
+
+## Carnegie Mellon University
+### BS, Math/CS
+1983 - 1987
+
+Focused on Artificial Intelligence and advanced programming environments.
